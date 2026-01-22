@@ -30,6 +30,9 @@ At a high level, the Experience Graph consists of:
 
 The architecture described here is conceptual and illustrative, and does not disclose proprietary implementation details.
 
+The following diagram illustrates the conceptual flow of the Experience Graph framework, highlighting experience-grounded reasoning as a pre-generation step prior to language generation.
+![Conceptual Overview: Experience Graph Framework](diagrams/experience-graph-concept.png)
+
 ## Research Prototype Reference
 This technical exploration informed the development of an early research prototype, referred to as *Experience Answer v0*, which was used to test experience-grounded reasoning with a small, intentionally selected user group.
 
